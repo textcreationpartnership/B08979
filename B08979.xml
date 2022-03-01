@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle by way of encouragement to Friends, to be frequent at week-day meetings.</title>
+            <author>Eccleston, Theodor, 1651-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08979</idno>
+            <idno type="OCLC"> 124064168</idno>
+            <idno type="STC">Wing E141A</idno>
+            <idno type="STC">ESTC R174844</idno>
+            <idno type="EEBO-CITATION">124064168</idno>
+            <idno type="OCLC">ocn 124064168</idno>
+            <idno type="VID">192255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192255)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2909:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle by way of encouragement to Friends, to be frequent at week-day meetings.</title>
+                  <author>Eccleston, Theodor, 1651-1726.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Pr]inted by T. Sowle, at the Crooked Billet in Holy-well-Lane, Shoreditch.,</publisher>
+                  <pubPlace>[Shoreditch, England :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Theodor Eccleston.</note>
+                  <note>Imperfect: stained and torn with slight loss of print.</note>
+                  <note>Reproduction of original in the Swarthmore College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Church attendance --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:192255:1" rendition="simple:additions"/>
+            <head>An EPISTLE By Way of <hi>Encouragement to Friends,</hi> To be frequent at <hi>Week-Day Meetings.</hi>
+            </head>
+            <opener>
+               <salute>Dear and tender Friends,</salute>
+            </opener>
+            <p>WE having been often refreſht, in the living preſence of the Lord, in <hi>Meetings;</hi> and thoſe that have truly Hungred after Righteouſneſs, have there felt the <hi>Bread</hi> that comes from Heaven, plentifully Diſtribu<g ref="char:EOLhyphen"/>ted; and many being thereby Nouri<g ref="char:EOLhyphen"/>ſhed up in the Eternal Life, it hath encouraged them to be frequent in <hi>Meetings;</hi> not only on firſt Days, but alſo on Week days, to wait upon the Lord in his Divine Gift, to be re<g ref="char:EOLhyphen"/>freſh't again: For as the Sence of Gods Goodneſs is abode in, the Hun<g ref="char:EOLhyphen"/>ger will remain after the Childrens Bread, and an earneſtneſs of mind will be to get to the <hi>Table of the Lord,</hi> where our Souls have been Refreſht before; that we may enjoy the re<g ref="char:EOLhyphen"/>newings of the Heavenly Life, and in<g ref="char:EOLhyphen"/>creaſe in it; wherein, as we are pre<g ref="char:EOLhyphen"/>ſerved, we ſhall abide in the favour of God, and have a ſhare of his Bleſſings which he is beſtowing among the Sons of Men, whoſe Hearts are prepared and ſtand open, and expecting to re<g ref="char:EOLhyphen"/>ceive from him.</p>
+            <p>Therefore, <hi>Friends,</hi> let a Watch<g ref="char:EOLhyphen"/>fulneſs be in the mind of every one, that this Worlds Cares and Concerns do not become as Briars and Thorns unto any, hindring their Growth in the Truth: For, <hi>Friends,</hi> theſe out<g ref="char:EOLhyphen"/>ward Goods the Lord hath beſtowed, ought rather to cauſe in our minds Thankfulneſs unto the Giver, and to walk in true fear, and lowlineſs of mind before him, and unto thoſe that ſo do, outward Riches, or any outward Bleſſing or Mercy that he beſtows, will not be an Occaſion, to neglect our Chriſtian Duty of Aſſem<g ref="char:EOLhyphen"/>bling our ſelves together, but ſo much the more as we have received from him, ſo much the more to be engaged to ſerve him, and draw near unto him, and wait upon him.</p>
+            <p>And thus your good Example in frequenting Meetings, may be an In<g ref="char:EOLhyphen"/>ducement to others to frequent Friends Meetings alſo; whereas, if any looking into our Meetings, ſhould <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a thinneſs and ſlackneſs in Frier <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may they not think? that our <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ings
+<pb n="2" facs="tcp:192255:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:192255:3"/> are no more profitable than their own, and ſo not be drawn by our Example to be fervent in ſeeking after the Lord; let therefore the zeal and diligence of Friends in frequenting Meetings, ſhew forth the Benefit of our Meetings, and the re<g ref="char:EOLhyphen"/>freſhment that may there be had; and it may prove a means to ſtir up them to conſider, that ſurely we do enjoy more in our Meetings, then they do in theirs, becauſe of our fre<g ref="char:EOLhyphen"/>quenting them ſo diligently.</p>
+            <p>And Friends, if any are in ſtreights and difficulties inwardly, whom have we to go unto? in compariſon of our God therefore not only in private, but alſo in the aſſembly of the Lords People, ſpread your ſpiritual neceſſities before him, and wait upon him for a ſupply; and let the minds of none Wander, out (when you are ſo met) be ſtaid upon the Lord in his Heavenly Gift, to receive from him, and if any are not yet come to a ſtay to their minds, let ſuch be turned to the meas;ure of the Spirit they have received, and (in faith) therein diligently reſiſt the enemy that would keep you unſetled, and as you abide faithfully Warring againſt him, in due time you'l know a Victory; and this will be of more advantage to your immortal Souls, then increaſe of outward Wealth, or indeed, then a bare formal ſitting in Meetings, only to hear the Experi<g ref="char:EOLhyphen"/>ences of others. For hereby you'l come to know Bread in your own Houſes, and Water in your Ciſ<g ref="char:EOLhyphen"/>terns, that you'l not need to ſay to others, give us of your Store. For through the Heavenly Gift that you have received will you be abundantly ſupplyed, and your Souls in the re<g ref="char:EOLhyphen"/>ceiving, will have a Sacrifice of thankſ<g ref="char:EOLhyphen"/>giving and Praiſe to Offer to our God, who is worthy thereof, for ever and evermore.</p>
+            <p>And you that are Maſters and Mi<g ref="char:EOLhyphen"/>ſtreſſes of Families, and Parents of Children, had need be Exemplary in your Practice and care over thoſe of your Families, That they ſeeing your zeal and earneſtneſs, in Aſſembling your ſelves together, to wait upon the Lord, may be drawn by your Example alſo to be diligent in wait<g ref="char:EOLhyphen"/>ing upon him, and ſo come to re<g ref="char:EOLhyphen"/>ceive for themſelves of his Bleſſings and Mercies, and then, that they to<g ref="char:EOLhyphen"/>gether with you, may live Worthy of his Mercies, is the fervent Travail and Prayer of</p>
+            <closer>
+               <signed>Your Friend, Theodor Eccleſton.</signed>
+               <dateline>London, <date>13. 10. Month. 1693.</date>
+               </dateline> Remember the time Appointed for Meetings to begin.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>nted by <hi>T. Sowle</hi> at the <hi>Crooked Billet</hi> in <hi>Holy-well-Lane, Shoreditch.</hi> 1693</p>
+         </div>
+      </back>
+   </text>
+</TEI>
